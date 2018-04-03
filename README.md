@@ -1,7 +1,7 @@
 # DataCatalogDocumentations
 Documentations that are related to MoH HIS subsystems data catalog:
 - Data Catalog User Guide: 
-  Instructions on how to create datasets in the data catalog
+ - Instructions on how to create datasets in the data catalog
 - Data Catalog Metadata Guide: 
   Instructions on how to generate and present metadata for various datasets
 - MoH HIS Subsystems System Context Diagram: 
