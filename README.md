@@ -7,3 +7,4 @@ Documentations that are related to MoH HIS subsystems data catalog:
 - "Data Catalog Information Collection Note": describes the working methodology applied to build up the data catalog
 - "Interview Questions to HIS Subsystem Leads": includes a list of interview questions that can be used to understand HIS subsystems and their data
 - "Data Catalog Installation Guide": a guide tells how to install CKAN on your own PC
+- "Knowledge Transfer Activity Log": it shows what Data Catalog related knowledge has been transferred to MoH staff
