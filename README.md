@@ -1,4 +1,4 @@
-# DataCatalogDocumentations
+# Data Catalog Documentations
 Documentations that are related to MoH HIS subsystems data catalog:
 - "Data Catalog User Guide": instructions on how to create datasets in the data catalog
 
