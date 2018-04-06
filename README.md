@@ -29,6 +29,6 @@ Handover Related:
 Development Related:
 - "MoH Data Catalog Requirements List": a list of requirements that are collected for the Data Catalog, including the ones that are not implemented yet.
 
-- "Data Catalog Prototypes": protoypes of the data catalog.
+- "Data Catalog Prototypes v0.2": protoypes of the data catalog.
 
 
