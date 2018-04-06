@@ -14,6 +14,8 @@ Documentations that are related to MoH HIS subsystems data catalog:
 
 - "Interview Questions to HIS Subsystem Leads": includes a list of interview questions that can be used to understand HIS subsystems and their data
 
+- "MoH Data Catalog Requirements List": a list of requirements that are collected for the Data Catalog, including the ones that are not implemented yet.
+
 - "Data Catalog Installation Guide": a guide tells how to install CKAN on your own PC
 
 - "Knowledge Transfer Activity Log": it shows what Data Catalog related knowledge has been transferred to MoH staff
