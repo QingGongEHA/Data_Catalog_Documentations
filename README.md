@@ -1,5 +1,6 @@
 # Data Catalog Documentations
-Documentations that are related to MoH HIS subsystems data catalog:
+
+Documentations:
 - "Data Catalog User Guide": instructions on how to create datasets in the data catalog
 
 - "Data Catalog Metadata Guide": instructions on how to generate and present metadata for various datasets
@@ -14,8 +15,18 @@ Documentations that are related to MoH HIS subsystems data catalog:
 
 - "Interview Questions to HIS Subsystem Leads": includes a list of interview questions that can be used to understand HIS subsystems and their data
 
-- "MoH Data Catalog Requirements List": a list of requirements that are collected for the Data Catalog, including the ones that are not implemented yet.
-
 - "Data Catalog Installation Guide": a guide tells how to install CKAN on your own PC
 
+
+Handover Related:
 - "Knowledge Transfer Activity Log": it shows what Data Catalog related knowledge has been transferred to MoH staff
+
+- "HIS Metadata Collection Status": it tells the progress and status of the metadata collection activity
+
+
+Development Related:
+- "MoH Data Catalog Requirements List": a list of requirements that are collected for the Data Catalog, including the ones that are not implemented yet.
+
+- "Data Catalog Prototypes": protoypes of the data catalog.
+
+
